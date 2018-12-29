@@ -32,6 +32,6 @@ PCB Hardware
 ![pcb_v01](img/Bottom_Layer.jpg)<br>
 *PCB version 03 Top-Layer (made by allpcb.com)*
 
-![pcb_v01](img/Front_PCB_Full.jpg)<br>
-*PCB all components added*
+![pcb_v01](img/Front_PCB_full.jpg)<br>
+*PCB with all components added*
 
